@@ -1,4 +1,4 @@
-This repository is meant to host pre-compiled versions of The Macro Assembler AS by Alfred Arnold, so MegaEnvironment can download them without problems.
+This repository is meant to host pre-compiled versions of The Macro Assembler AS by Alfred Arnold, so MegaEnvironment can download them without problems.  
 The build won't get updated often, unless there's fixes for 68k and Z80 assembly or other related stuff.
 
 # Original authors
