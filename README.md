@@ -3,4 +3,6 @@ The build won't get updated often, unless there's fixes for 68k and Z80 assembly
 
 # Original authors
 The assembler: http://john.ccac.rwth-aachen.de:8000/as/  
-GitHub: https://github.com/Macroassembler-AS/
+GitHub: https://github.com/Macroassembler-AS/  
+
+Thanks to [RobiTheGit](https://github.com/RobiTheGit) for being so kind to provide the Linux binaries without even asking him!
